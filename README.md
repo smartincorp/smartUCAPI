@@ -1,4 +1,5 @@
-# smartucapi
+# SmartUCAPI
+
 A simple and short API for UCS server made by Alpha Man
 
 ___
@@ -22,7 +23,6 @@ ___
 
 * While the above code shows the status of the server
 
-
 ___
 
 ### Available parameters
@@ -44,9 +44,13 @@ ___
 
 `http://yourwebsite.com/apiv1/?get=js12sdk34ndk39fmpi3roijwr&show=status`
 
+___
+
 ##Script under build
 
 The script is still undergoing development and needs to be finished. Please wait till then.
+
+___
 
 ##Ideas
 
