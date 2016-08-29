@@ -5,22 +5,24 @@ ___
 
 ## Usage
 
-1 First run this script locally on your machine
-2 Go to your localhost with this url : 
+* First run this script locally on your machine
+* Go to your localhost with this url : 
 
 `http://localhost/?give=key`
 
-3 It will generate a code, copy that and paste it in your ucs.config file
-4 Now turn your server on and again go to this url : 
+* It will generate a code, copy that and paste it in your ucs.config file
+* Now turn your server on and again go to this url : 
 
 `http://localhost/?get={thecodegenerated}&show=onlineplayer`
 
-5 This above URI will show the amount of people playing in that server
-6 To get the status of the server, change the `show` parameter to `status`
+* This above URI will show the amount of people playing in that server
+* To get the status of the server, change the `show` parameter to `status`
 
 `http://localhost/?get={thecodegenerated}&show=status`
 
-7 While the above code shows the status of the server.
+* While the above code shows the status of the server
+
+
 ___
 
 ### Available parameters
@@ -48,6 +50,6 @@ The script is still undergoing development and needs to be finished. Please wait
 
 ##Ideas
 
-1 A complete web dashboard powerd by **SmartUCAPI** to show the status, players in your dashboard
-2 Control the server using API (Done only via `POST` method with passowrd and IP recognition)
-3 Encrypt data sent and recived through the RSA public and Private key (security)
+1. A complete web dashboard powerd by **SmartUCAPI** to show the status, players in your dashboard
+2. Control the server using API (Done only via `POST` method with passowrd and IP recognition)
+3. Encrypt data sent and recived through the RSA public and Private key (security)
