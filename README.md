@@ -57,3 +57,7 @@ ___
 1. A complete web dashboard powerd by **SmartUCAPI** to show the status, players in your dashboard
 2. Control the server using API (Done only via `POST` method with passowrd and IP recognition)
 3. Encrypt data sent and recived through the RSA public and Private key (security)
+
+##Donation
+
+<a href='https://ko-fi.com/A422ACK' target='_blank'><img height='32' style='border:0px;height:32px;' src='https://az743702.vo.msecnd.net/cdn/kofi1.png?v=b' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a> 
